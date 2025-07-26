@@ -19,8 +19,8 @@ This is a minimal starter template for building modern React applications using 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone git@github.com:ankitnep001/initialReactSetup.git
+cd initialReactSetup
 ```
 
 ### 2. Install Dependencies
